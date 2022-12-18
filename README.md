@@ -1,5 +1,5 @@
 ## **LaTeX-Unterlagen**
----
+
 In diesem Repository befinden sich die LaTeX-Unterlagen zum Modul.
 
 ### **Inhalt**
@@ -7,7 +7,7 @@ In diesem Repository befinden sich die LaTeX-Unterlagen zum Modul.
 
 Der Inhalt entspricht dem Text der Aufgabe 2 des Modul.
 
-Es kann sinnvoll sein, sich die PDF zur Aufgabe zwei noch einmal anzusehen
+Es kann sinnvoll sein, sich die PDF zur Aufgabe 2 noch einmal anzusehen
 
 
 ### **PDF erstellen**
@@ -26,6 +26,6 @@ Das geht ganz schnell und einfach:
 		latexmk -pdf ./task.tex
 
 
-### **<span style="color:red">!!ACHTUNG!!</span>**
+### $\colorbox{red}{!!ACHTUNG!!}$
 
-LaTeX erstelle einige nervige Dateien (.aux, .log) diese muss man loeschen bevor man einen Commit mit seinen Aenderungen macht!
+LaTeX erstellt einige nervige Dateien (.aux, .log) diese muss man loeschen bevor man einen Commit mit seinen Aenderungen macht!
